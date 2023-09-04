@@ -1,4 +1,4 @@
-![logo](https://github.com/sarthakpravinnandre/sarthak/blob/main/WhatsApp%20Image%202023-09-04%20at%2007.57.09.jpeg)
+![logo](https://github.com/sarthakpravinnandre/sarthak/blob/main/xxcv.png)
 <h1 align="center">Hi 👋, I'm Sarthak Pravin Nandre</h1>
 <h3 align="center">A passionate Computer Engineer developer from India</h3>
 
