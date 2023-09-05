@@ -1,5 +1,5 @@
 # include <iostream>
-using namespPace std;
+using namespace std;
 int main ()
 {
     int x,y;
